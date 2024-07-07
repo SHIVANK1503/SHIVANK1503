@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivank Kumar</h1>
-<h3 align="center">I m a 3rd year student</h3>
+<h3 align="center">I m a Final year student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivank1503&label=Profile%20views&color=0e75b6&style=flat" alt="shivank1503" /> </p>
 
