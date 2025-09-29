@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivank1503" alt="shivank1503" /></a> </p>
 
-- 🌱 I’m currently learning **Node,Express**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **shivankkumar479@gmail.com**
 
