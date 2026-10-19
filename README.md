@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · SHIVANK1503</sub></p>
+<b><p><sub>SHIVANK1503</sub></p></b>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=shivank1503&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143902173%3Fu%3Def42f874502e3619bd4b84cf4fe9db2a44736ce6%26v%3D4&label=Shivank%20Kumar&mode=light" />
@@ -11,7 +11,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=shivank1503&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143902173%3Fu%3Def42f874502e3619bd4b84cf4fe9db2a44736ce6%26v%3D4&label=Shivank%20Kumar&v=cinematic-hero-wordmark-1&mode=light" />
 </picture>
 
-<p><strong>AI Developer</strong> · Noida</p>
+<p><strong>AI Developer</strong> · HCLTech Noida</p>
 <p>A junior AI Developer working on the AI related applications</p>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
@@ -19,7 +19,7 @@
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="58%" valign="top"><h2>The point of view</h2><blockquote>A junior AI Developer working on the AI related applications</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · Noida<br />FOCUS · Python</sub></p><p><strong>7</strong> repos<br /><strong>7</strong> contributions<br /><strong>0</strong> followers</p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · AI Developer<br />BASED · Noida<br />FOCUS · Python</sub></p><p><strong>7</strong> repos<br /><strong>7</strong> contributions<br /><strong>0</strong> followers</p></td>
 </tr>
 </table>
 
