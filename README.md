@@ -58,8 +58,8 @@
 <table width="100%">
 <tr>
 <td width="25%" valign="top"><p><strong><a href="https://github.com/SHIVANK1503/Langchain">Langchain</a></strong></p><p>This Repository is all about Langchain and its components</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/SHIVANK1503/PDF-summarizer-using-RAG">PDF-summarizer-using-RAG</a></strong></p><p>This Repository is all about RAG and its components.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/SHIVANK1503/RAG">RAG</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/SHIVANK1503/PDF-summarizer-using-RAG">PDF-summarizer-using-RAG</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/SHIVANK1503/RAG">RAG</a></strong></p><p>This Repository is all about RAG and its components.</p><p><sub>Open source · ⭐ 0</sub></p></td>
 <td width="25%" valign="top"><p><strong><a href="https://github.com/SHIVANK1503/Travel_booking_app">Travel_booking_app</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
 </tr>
 </table>
